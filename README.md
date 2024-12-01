@@ -4,7 +4,7 @@ This is my personal portfolio website created using **HTML** and **CSS**. It sho
 
 ## Features
 - Responsive and modern design.
-- Sections for About Me, Projects, Skills, and Contact.
+- Sections for About Me, Projects, Skills, and Projects.
 
 ## How to Use
 1. Clone this repository:
